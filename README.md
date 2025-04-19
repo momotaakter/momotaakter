@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner/Profile Picture -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c4343cd-2f29-4fbd-988a-5e7552599a18" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://github.com/user-attachments/assets/1d98e20e-1509-493b-aa64-2d7054388fc6" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Hi there, I'm Momota Akter 👋</h1>
